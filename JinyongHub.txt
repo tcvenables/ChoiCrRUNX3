@@ -1,0 +1,6 @@
+hub ChoiCrRUNX3
+shortLabel crisper RUNX3 Tfh, Cd8 Tfh, and Cd8 Th1
+longLabel crisper experiment of RUNX3 in Tcell development
+genomesFile ....
+email tvenable@scripps.edu
+descriptionUrl ....
